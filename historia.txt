@@ -1,5 +1,11 @@
 Este es un mensaje para validar el funcionamiento de git.
 
+<<<<<<< HEAD
 Mensaje para probar el funcionamiento de github desktop git.
 
 Esto se va a borrar despues. 
+=======
+Mensaje para probar el funcionamiento de github desktop
+
+Un cambio adicional.
+>>>>>>> Cambio adicional
