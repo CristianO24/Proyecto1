@@ -1,1 +1,3 @@
 Este es un mensaje para validar el funcionamiento de git.
+
+Mensaje para probar el funcionamiento de github desktop
