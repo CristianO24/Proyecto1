@@ -1,5 +1,5 @@
 Este es un mensaje para validar el funcionamiento de git.
 
-Mensaje para probar el funcionamiento de github desktop
+Mensaje para probar el funcionamiento de github desktop git.
 
-Un cambio adicional.
+Esto se va a borrar despues. 
