@@ -1,7 +1,7 @@
 body
 {
     text-align: left;
-    font-family: Courier;
+    font-family: Century 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: black;
     font-size: 16px;
     margin: 0;
@@ -11,7 +11,7 @@ body
 #cabecera
 {
     background: #33A;
-    box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
+    box-shadow: 0px 2px 20px 0px rgba(255,255,255,1);
     color: white;
     font-weight: bold;
         margin: 0;
@@ -37,9 +37,21 @@ body
 #container h1
 {
     font-size: 20px;
+    color: white;
 }
 
 #post
 {
     padding: 1em;
+    color: white;
+    background-color: black;    
+}
+#footer
+{
+    background: #33A;
+    box-shadow: 0px 2px 20px 0px rgba(255,255,255,1);
+    color: white;
+    font-weight: bold;
+    padding: 0.5em ;
+    text-align: center;
 }
