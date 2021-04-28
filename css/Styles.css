@@ -46,3 +46,12 @@ body
     color: white;
     background-color: black;    
 }
+#footer
+{
+    background: #33A;
+    box-shadow: 0px 2px 20px 0px rgba(255,255,255,1);
+    color: white;
+    font-weight: bold;
+    padding: 0.5em ;
+    text-align: center;
+}
